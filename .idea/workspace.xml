@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd855022-257d-41bc-b16d-bce7a843b494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/3-2/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindIndex in github.com/keigodasu/algorithm-and-data-structure-book/3-2">
+  <component name="RunManager" selected="Go Test.TestFindMin in github.com/keigodasu/algorithm-and-data-structure-book/3-3">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
       <working_directory value="$PROJECT_DIR$" />
@@ -64,6 +63,17 @@
       <pattern value="^TestFindIndex$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestFindMin in github.com/keigodasu/algorithm-and-data-structure-book/3-3" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-and-data-structure-book" />
+      <working_directory value="$PROJECT_DIR$/3-3" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/3-3" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestFindMin$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestFindNumber in github.com/keigodasu/algorithm-and-data-structure-book/3-1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
       <working_directory value="$PROJECT_DIR$/3-1" />
@@ -77,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestFindMin in github.com/keigodasu/algorithm-and-data-structure-book/3-3" />
         <item itemvalue="Go Test.TestFindIndex in github.com/keigodasu/algorithm-and-data-structure-book/3-2" />
         <item itemvalue="Go Test.TestFindNumber in github.com/keigodasu/algorithm-and-data-structure-book/3-1" />
         <item itemvalue="Go Build.go build main.go" />
@@ -88,26 +99,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="648" y="554" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610015668673">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="648" y="554" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1610015668673" />
     <state x="625" y="596" key="EditFileWatcherDialog" timestamp="1610015187907">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1610015187907" />
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1610014798925">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1610019996251">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610014798925" />
-    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1610014798925">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610019996251" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1610019996250">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610014798925" />
-    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1610014798924">
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610019996250" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1610019996250">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610014798924" />
-    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1610014798925">
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610019996250" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1610019996251">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610014798925" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610019996251" />
     <state x="469" y="450" key="SettingsEditor" timestamp="1610015189253">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
