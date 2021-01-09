@@ -9,10 +9,11 @@ func chmin(a, b float64, i int, list []int) {
 }
 
 func DpFrog(h []int) int {
+	INF := 1000000000
 	dp := make([]int, len(h))
 	dp[0] = 0
 	for i := 1; i < len(h); i++ {
-		dp[i] = 1000000000
+		dp[i] = INF
 	}
 	dp[0] = 0
 
