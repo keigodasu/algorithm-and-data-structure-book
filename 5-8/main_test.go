@@ -14,7 +14,7 @@ func TestDiff(t *testing.T) {
 		args args
 		want int
 	}{
-		{name: "case01", args: args{"logistic", "algorithm"}, want: 6},
+		{name: "case01", args: args{"aacc", "bbdde"}, want: 5},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
