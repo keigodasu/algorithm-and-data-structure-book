@@ -1,9 +1,26 @@
 package main
 
-import "sort"
+import (
+	"fmt"
+	"sort"
+)
+
+func main() {
+	var N int
+	fmt.Scan(&N)
+	H := make([]int, N)
+	S := make([]int, N)
+
+	for i := 0; i < N; i++ {
+		fmt.Scan(&H[i])
+		fmt.Scan(&S[i])
+	}
+
+	fmt.Println(binarysearch(H, S))
+}
 
 func binarysearch(h, s []int) int {
-	left, right := 0, 10000000000
+	left, right := 0, 100000
 	for right-left > 1 {
 		mid := (left + right) / 2
 
