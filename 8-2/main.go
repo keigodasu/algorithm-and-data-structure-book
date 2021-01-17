@@ -6,6 +6,7 @@ import (
 
 type Node struct {
 	Next *Node
+	Prev *Node
 	Name string
 }
 
@@ -25,11 +26,22 @@ func PrintList() {
 
 func Insert(v *Node) {
 	v.Next = sentinel.Next
+	sentinel.Next.Prev = v
 	sentinel.Next = v
+	v.Prev = sentinel
+}
+
+func Erase(v *Node) {
+	if v == sentinel {
+		return
+	}
+	v.Prev.Next = v.Next
+	v.Next.Prev = v.Prev
 }
 
 func main() {
 	sentinel.Next = sentinel
+	var deleteTargetNode *Node
 
 	list := []string{"yamamot", "watanabe", "ito", "takahashi", "suzuki", "sato"}
 
@@ -38,9 +50,14 @@ func main() {
 			Next: nil,
 			Name: name,
 		}
+		if node.Name == "watanabe" {
+			deleteTargetNode = &node
+		}
 		Insert(&node)
 		fmt.Printf("step %d: ", i)
 		PrintList()
 	}
-
+	PrintList()
+	Erase(deleteTargetNode)
+	PrintList()
 }
