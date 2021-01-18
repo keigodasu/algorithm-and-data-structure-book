@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bd855022-257d-41bc-b16d-bce7a843b494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -42,73 +60,83 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestFindSum in github.com/keigodasu/algorithm-and-data-structure-book/3-6">
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/8-2">
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/6-5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/3-4/main.go" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/6-5/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/6-5" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindIndex in github.com/keigodasu/algorithm-and-data-structure-book/3-2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/8-2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/3-2" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/3-2" />
+      <filePath value="$PROJECT_DIR$/8-2/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/8-2" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestFindIndex$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindMin in github.com/keigodasu/algorithm-and-data-structure-book/3-3" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGreedy in github.com/keigodasu/algorithm-and-data-structure-book/7-1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/3-3" />
+      <working_directory value="$PROJECT_DIR$/7-1" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/3-3" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-1" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestFindMin$" />
+      <pattern value="^TestGreedy$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindMinimumPair in github.com/keigodasu/algorithm-and-data-structure-book/3-4" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMultipleArray in github.com/keigodasu/algorithm-and-data-structure-book/7-3" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/3-4" />
+      <working_directory value="$PROJECT_DIR$/7-3" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/3-4" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-3" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestFindMinimumPair$" />
+      <pattern value="^TestMultipleArray$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestFindSum in github.com/keigodasu/algorithm-and-data-structure-book/3-6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSectionSchedule in github.com/keigodasu/algorithm-and-data-structure-book/7-2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/3-6" />
+      <working_directory value="$PROJECT_DIR$/7-2" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/3-6" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-2" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestFindSum$" />
+      <pattern value="^TestSectionSchedule$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestFindSum in github.com/keigodasu/algorithm-and-data-structure-book/3-6" />
-        <item itemvalue="Go Test.TestFindMinimumPair in github.com/keigodasu/algorithm-and-data-structure-book/3-4" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Test.TestFindMin in github.com/keigodasu/algorithm-and-data-structure-book/3-3" />
-        <item itemvalue="Go Test.TestFindIndex in github.com/keigodasu/algorithm-and-data-structure-book/3-2" />
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/8-2" />
+        <item itemvalue="Go Test.TestMultipleArray in github.com/keigodasu/algorithm-and-data-structure-book/7-3" />
+        <item itemvalue="Go Test.TestSectionSchedule in github.com/keigodasu/algorithm-and-data-structure-book/7-2" />
+        <item itemvalue="Go Test.TestGreedy in github.com/keigodasu/algorithm-and-data-structure-book/7-1" />
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/6-5" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="554" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1610015668673">
@@ -119,42 +147,50 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1610015187907" />
-    <state width="2518" height="566" key="GridCell.Tab.0.bottom" timestamp="1610025040486">
+    <state width="1878" height="566" key="GridCell.Tab.0.bottom" timestamp="1610852989715">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040486" />
-    <state width="2518" height="566" key="GridCell.Tab.0.center" timestamp="1610025040486">
+    <state width="1750" height="418" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306430" />
+    <state width="1878" height="566" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
+    <state width="1878" height="566" key="GridCell.Tab.0.center" timestamp="1610852989715">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040486" />
-    <state width="2518" height="566" key="GridCell.Tab.0.left" timestamp="1610025040485">
+    <state width="1750" height="418" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
+    <state width="1878" height="566" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
+    <state width="1878" height="566" key="GridCell.Tab.0.left" timestamp="1610852989715">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040485" />
-    <state width="2518" height="566" key="GridCell.Tab.0.right" timestamp="1610025040486">
+    <state width="1750" height="418" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
+    <state width="1878" height="566" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
+    <state width="1878" height="566" key="GridCell.Tab.0.right" timestamp="1610852989715">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040486" />
-    <state width="2518" height="566" key="GridCell.Tab.1.bottom" timestamp="1610025040564">
+    <state width="1750" height="418" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
+    <state width="1878" height="566" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom" timestamp="1610852989716">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.1.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040564" />
-    <state width="2518" height="566" key="GridCell.Tab.1.center" timestamp="1610025040564">
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989716" />
+    <state width="1878" height="566" key="GridCell.Tab.1.center" timestamp="1610852989716">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.1.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040564" />
-    <state width="2518" height="566" key="GridCell.Tab.1.left" timestamp="1610025040563">
+    <state width="1878" height="566" key="GridCell.Tab.1.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989716" />
+    <state width="1878" height="566" key="GridCell.Tab.1.left" timestamp="1610852989716">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.1.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040563" />
-    <state width="2518" height="566" key="GridCell.Tab.1.right" timestamp="1610025040564">
+    <state width="1878" height="566" key="GridCell.Tab.1.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989716" />
+    <state width="1878" height="566" key="GridCell.Tab.1.right" timestamp="1610852989716">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
-    <state width="2518" height="566" key="GridCell.Tab.1.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610025040564" />
+    <state width="1878" height="566" key="GridCell.Tab.1.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989716" />
     <state x="469" y="450" key="SettingsEditor" timestamp="1610015189253">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="469" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1610015189253" />
+    <state x="2587" y="400" width="586" height="822" key="find.popup" timestamp="1610353386929">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="2587" y="400" width="586" height="822" key="find.popup/0.23.3840.1577@0.23.3840.1577" timestamp="1610353386929" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -164,7 +200,20 @@
           <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/5-4/main.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/5-4/main.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
