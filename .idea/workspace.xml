@@ -60,13 +60,31 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/8-2">
-    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/6-5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/10-5">
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/10-3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/6-5/main.go" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/6-5" />
+      <filePath value="$PROJECT_DIR$/10-3/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/10-3" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/10-4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-and-data-structure-book" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/10-4/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/10-4" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/10-5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-and-data-structure-book" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/10-5/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/10-5" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -79,46 +97,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestGreedy in github.com/keigodasu/algorithm-and-data-structure-book/7-1" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/keigodasu/algorithm-and-data-structure-book/9-1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/7-1" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-1" />
+      <filePath value="$PROJECT_DIR$/9-1/main.go" />
+      <package value="github.com/keigodasu/algorithm-and-data-structure-book/9-1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestGreedy$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMultipleArray in github.com/keigodasu/algorithm-and-data-structure-book/7-3" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/7-3" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-3" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestMultipleArray$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestSectionSchedule in github.com/keigodasu/algorithm-and-data-structure-book/7-2" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-and-data-structure-book" />
-      <working_directory value="$PROJECT_DIR$/7-2" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="github.com/keigodasu/algorithm-and-data-structure-book/7-2" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestSectionSchedule$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/10-5" />
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/10-4" />
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/10-3" />
+        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/9-1" />
         <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/8-2" />
-        <item itemvalue="Go Test.TestMultipleArray in github.com/keigodasu/algorithm-and-data-structure-book/7-3" />
-        <item itemvalue="Go Test.TestSectionSchedule in github.com/keigodasu/algorithm-and-data-structure-book/7-2" />
-        <item itemvalue="Go Test.TestGreedy in github.com/keigodasu/algorithm-and-data-structure-book/7-1" />
-        <item itemvalue="Go Build.go build github.com/keigodasu/algorithm-and-data-structure-book/6-5" />
       </list>
     </recent_temporary>
   </component>
@@ -147,26 +141,26 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="625" y="596" key="EditFileWatcherDialog/0.23.3840.1577@0.23.3840.1577" timestamp="1610015187907" />
-    <state width="1878" height="566" key="GridCell.Tab.0.bottom" timestamp="1610852989715">
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom" timestamp="1611018569018">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="1750" height="418" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306430" />
-    <state width="1878" height="566" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
-    <state width="1878" height="566" key="GridCell.Tab.0.center" timestamp="1610852989715">
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1611018569018" />
+    <state width="1878" height="379" key="GridCell.Tab.0.center" timestamp="1611018569018">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="1750" height="418" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
-    <state width="1878" height="566" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
-    <state width="1878" height="566" key="GridCell.Tab.0.left" timestamp="1610852989715">
+    <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1611018569018" />
+    <state width="1878" height="379" key="GridCell.Tab.0.left" timestamp="1611018569017">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="1750" height="418" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
-    <state width="1878" height="566" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
-    <state width="1878" height="566" key="GridCell.Tab.0.right" timestamp="1610852989715">
+    <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1611018569017" />
+    <state width="1878" height="379" key="GridCell.Tab.0.right" timestamp="1611018569018">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state width="1750" height="418" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1610360306429" />
-    <state width="1878" height="566" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610852989715" />
+    <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1611018569018" />
     <state width="1878" height="566" key="GridCell.Tab.1.bottom" timestamp="1610852989716">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
